@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Capsule Top (Solid Blue) -->
+  <path d="M5 8V6a3 3 0 0 1 6 0v2H5z" />
+  <!-- Capsule Bottom (Outline Blue) -->
+  <path d="M5 8v3a3 3 0 0 0 6 0V8H5z" fill="none" stroke="currentColor" stroke-width="2" />
+  <!-- Tablet (Solid Blue with White Diagonal Line) -->
+  <circle cx="17" cy="13" r="4.5" />
+  <line x1="14" y1="10" x2="20" y2="16" stroke="white" stroke-width="1.5" />
+</svg>

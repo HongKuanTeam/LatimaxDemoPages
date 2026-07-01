@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Flipped sideways toilet -->
+  <g transform="translate(12, 12) scale(-1, 1) translate(-12, -12)">
+    <path d="M19 3H9c-1.1 0-2 .9-2 2v8H4c-1.1 0-2 .9-2 2v1c0 2.2 1.8 4 4 4h10c2.2 0 4-1.8 4-4v-1h2v-4c0-2.2-1.8-4-4-4zm-2 12H6c-1.1 0-2-.9-2-2v-1h13v3zm0-5H9V5h8v5z"/>
+  </g>
+</svg>

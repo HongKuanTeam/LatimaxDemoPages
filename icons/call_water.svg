@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Glass Cup Solid Body -->
+  <path d="M5.5 3h13l-2 16c-.1 1.1-1 2-2.1 2h-4.8c-1.1 0-2-.9-2.1-2l-2-16z" />
+  <!-- White level band near the top -->
+  <rect x="6" y="6" width="12" height="3" fill="white" />
+</svg>

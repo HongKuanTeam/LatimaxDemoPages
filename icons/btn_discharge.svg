@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Solid door + Exit arrow -->
+  <path d="M4 4h7a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm8 7h4V8l5 4-5 4v-3h-4v-2z" />
+  <!-- White arrow shaft inside door -->
+  <rect x="7" y="11" width="5" height="2" fill="white" />
+</svg>

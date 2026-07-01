@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Solid Bell -->
+  <path d="M12 2a4.5 4.5 0 0 0-4.5 4.5V12l-1.5 2v1h12v-1l-1.5-2V6.5A4.5 4.5 0 0 0 12 2zm-2 14h4a2 2 0 0 1-4 0z" />
+  <!-- Sound Waves -->
+  <path d="M4 8a6.5 6.5 0 0 0 0 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+  <path d="M20 8a6.5 6.5 0 0 1 0 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+</svg>

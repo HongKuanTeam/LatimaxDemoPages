@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Hospital Building -->
+  <path d="M9 3h6a1 1 0 0 1 1 1v6h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1h3V4a1 1 0 0 1 1-1z" />
+  <!-- White Medical Cross -->
+  <path d="M11 4.5h2v1.5h1.5v2H13v1.5h-2V8H9.5v-2H11V4.5z" fill="white" />
+  <!-- 6 White Windows -->
+  <rect x="6" y="12" width="2" height="2" fill="white" />
+  <rect x="11" y="12" width="2" height="2" fill="white" />
+  <rect x="16" y="12" width="2" height="2" fill="white" />
+  <rect x="6" y="16" width="2" height="2" fill="white" />
+  <rect x="11" y="16" width="2" height="2" fill="white" />
+  <rect x="16" y="16" width="2" height="2" fill="white" />
+</svg>
